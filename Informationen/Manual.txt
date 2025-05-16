@@ -1,0 +1,1 @@
+Get-Help <cmd> - Examples -Detailed/-Full -Online
