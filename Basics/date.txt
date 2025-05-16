@@ -1,0 +1,7 @@
+Get-Date            ### aktuelles Datum
+
+(Get-Date).Year     ### akutelles Jahr
+
+(Get-Date).AddHours(2) ### Datum berechnen
+
+Get-Date -Format "dddd dd/MM/yyyy HH:mm K"

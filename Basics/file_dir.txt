@@ -1,0 +1,7 @@
+Get-Location                ### aktueller Pfad
+
+Set-Location Downloads      ### Pfad wechseln
+
+Get-ChildItem *.exe         ### Alle Dateien eines Typs anzeigen
+
+Remove-Item ChromeSetup.exe ### Die angegebene Datei löschen
